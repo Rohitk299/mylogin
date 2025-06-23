@@ -94,4 +94,7 @@ button:hover{
         width: 300px;
         padding: 20px;
     }
+     #nav-bar{
+        font-size: 13px;
+    }
 }
